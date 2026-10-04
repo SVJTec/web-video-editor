@@ -1,0 +1,7 @@
+export { Header } from './Header'
+export { Sidebar } from './Sidebar'
+export { Canvas } from './Canvas'
+export { Timeline } from './Timeline'
+export { Inspector } from './Inspector'
+export { Playback } from './Playback'
+export { SettingsPanel } from './SettingsPanel'
